@@ -1,0 +1,166 @@
+body{
+
+    background-color: #212b2d;
+}
+.mainmid{
+    width: 100%;
+    height: auto;
+    margin:auto;
+    float: left;
+}
+.header{
+    width: 900px;
+    height: 150px;
+    float: left;
+    border: 1PX;
+    border-style: solid;
+    border-color: #212b2d;
+    
+    
+}
+.menu{
+    width: 900px;
+    height: 50px;
+    float: left;
+    background-color:#333a40;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border-color: seashell;
+    border-top: seashell;
+    border-top-width: 5px;
+   
+}
+.left{
+    width: 250px;
+    height: 600px;
+    float: left;
+}
+.leftTOP{
+    width: 248px;
+    height: 348px;
+    float: left;
+    border: 1PX;
+    border-style: solid;
+    border-color: #212b2d;
+   
+}
+.leftBOTTOM{
+    width: 248px;
+    height: 248px;
+    float: left;
+    border: 1PX;
+    border-style: solid;
+    border-color: #212b2d;
+
+    
+}
+.content{
+    width: auto;
+    height: auto;
+    float: left;
+    text-align: left;
+    border: 1PX;
+    border-style: solid;
+    border-color: #212b2d;
+   
+}
+.line{
+    width: 900px;
+    height: 2px;
+    float: left;
+    background-color: cornsilk ;
+    
+}
+
+.navtag{
+    float: left;
+    color: palegoldenrod;
+    width: 223px;
+    height: 34px;
+    text-align: center;
+    padding-top: 14px;
+    border: 1PX;
+    border-style: solid;
+    border-color: #212b2d;
+    text-decoration: none;
+}
+  h2{
+      color: palegoldenrod;
+      
+  }
+  li{
+    color: palegoldenrod;
+}
+.txtcolor{
+    color:palegoldenrod;
+    padding-right: 10px;
+    text-align: left;
+
+}
+.gallery{
+
+    width: 648px;
+    height: 348px;
+    float: left;
+    border: 1PX;
+    border-style: solid;
+    border-color: #212b2d;
+    color: palegoldenrod;
+    padding-left: 14px;
+}
+.subser{
+    width: 312px;
+    height: 248px;
+    float: left;
+    color: palegoldenrod;
+    border-left-color: palegoldenrod;
+    border-left: 0.25px;
+    border-left-style: groove;
+    padding-left: 5px;
+    text-align: justify;
+    padding-right: 5px;
+
+}
+.map{
+    width: 624px;
+    height: 248px;
+padding-bottom: 4px;
+float: left;
+}
+
+button{
+   padding: 10px;
+ margin-left: 30px;
+}
+
+.txt{
+    color:#212b2d;
+    padding-top: 10px;
+    text-align: center;
+
+}
+.footer{
+    width: 900px;
+    height: 50px;
+    float: left;
+    border-top-color: palegoldenrod;
+    border-top: 0.25px;
+    border-top-style: groove;
+    
+}
+.http{
+
+    text-decoration: none;
+}
+.about{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+#MAINB{
+    background: linear-gradient(to bottom, #ffe8d4, #f69d3c);
+    border: 1px solid #696969;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px black;
+}
